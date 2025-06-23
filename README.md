@@ -1,2 +1,2 @@
-# Projeto-de-ProgramaçãoAvançada
-O projeto consistiu em fazer uma programa para desenhar uma forma geométrica na linguagem C++, subdividido em duas partes: A primeira consistiu em declarar classes e a partir delas fazer um programa main para chamá-las e desenhar um arquivo OFF ( Object File Format ), baseado nas instruções. Já a segunda parte foi semelhante, usando uma classe abstrata de base para desenhar quaisquer figuras do meu arquivo Sculptor por meio apenas da adição de um arquivo de texto na pasta do programa criado com apenas as instruções do desenho.
+# Projeto de Programação Avançada - Parte 1
+O projeto consistiu em fazer uma programa para desenhar uma forma geométrica na linguagem C++, subdividido em duas partes: A primeira consistiu em declarar classes e a partir delas fazer um programa main para chamá-las e desenhar um arquivo OFF ( Object File Format ), baseado nas instruções.
